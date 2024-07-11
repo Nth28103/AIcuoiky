@@ -2,5 +2,5 @@ scikit learn
 matplotlib
 keras
 tensorflow
-seborn
+seaborn
 tqdm
